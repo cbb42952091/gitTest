@@ -18,12 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    
-    
-    
-    
-    
-//    双方将手机放了撒娇疗法
+
 }
 
 - (void)didReceiveMemoryWarning {
